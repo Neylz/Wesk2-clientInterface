@@ -1,0 +1,3 @@
+C:/Users/Neylz/CLionProjects/Wesk2-clientInterface/cmake-build-debug/CMakeFiles/Wesk2_clientInterface.dir
+C:/Users/Neylz/CLionProjects/Wesk2-clientInterface/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Neylz/CLionProjects/Wesk2-clientInterface/cmake-build-debug/CMakeFiles/rebuild_cache.dir

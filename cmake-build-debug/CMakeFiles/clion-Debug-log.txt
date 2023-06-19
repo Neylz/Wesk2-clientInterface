@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Neylz\CLionProjects\Wesk2-clientInterface -B C:\Users\Neylz\CLionProjects\Wesk2-clientInterface\cmake-build-debug
+CMake Error at C:/Program Files/JetBrains/CLion 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find CURL (missing: CURL_LIBRARY CURL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+  C:/Program Files/JetBrains/CLion 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindCURL.cmake:182 (find_package_handle_standard_args)
+  CMakeLists.txt:7 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Neylz/CLionProjects/Wesk2-clientInterface/cmake-build-debug/CMakeFiles/CMakeOutput.log".
